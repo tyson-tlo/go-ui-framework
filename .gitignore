@@ -1,0 +1,49 @@
+# Binaries and build artifacts
+*.exe
+*.out
+*.so
+*.dll
+*.dylib
+*.o
+*.a
+*.log
+
+# Go module cache
+go.sum
+
+# VSCode
+.vscode/
+
+# JetBrains IDEs (e.g., GoLand)
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# MacOS Finder files
+.DS_Store
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.swp
+
+# Cache directories
+.cache/
+*.bak
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Sensitive files
+.env
+config.yaml
